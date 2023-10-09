@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome my world! 👋
+### [博客地址]([https://github.com/YangGoldDragon/Blog/issues/29](https://yanggolddragon.github.io/Blog/)
+![main.js](https://github.com/YangGoldDragon/Blog/raw/master/images/blog.png?raw=true)
 
 <!--
 **YangGoldDragon/YangGoldDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
