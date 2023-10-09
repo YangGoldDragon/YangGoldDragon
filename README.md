@@ -2,12 +2,9 @@
 
 ### 博客：[https://yanggolddragon.github.io/Blog/](https://yanggolddragon.github.io/Blog/)
 
-<samp>
-  <ul>
-    <li>练习时长两年半的前端练习生 👋</li>
-    <li>升级打怪ing...</li>
-  </ul>
-</samp>
+#### 练习时长两年半的前端练习生 👋
+#### 升级打怪ing...
+
 
 <!--
 **YangGoldDragon/YangGoldDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
