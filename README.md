@@ -1,7 +1,7 @@
 <img src="https://github.com/YangGoldDragon/Blog/raw/master/images/blog.png?raw=true" width="430" alt="《九喇嘛》" align="right" />
 
 ### Welcome my world! 👋
-### [博客地址](https://yanggolddragon.github.io/Blog/)
+### 访问线上博客：[to blog](https://yanggolddragon.github.io/Blog/)
 
 <!--
 **YangGoldDragon/YangGoldDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
