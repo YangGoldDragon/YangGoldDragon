@@ -1,4 +1,5 @@
-![main.js](https://github.com/YangGoldDragon/Blog/raw/master/images/blog.png?raw=true)
+<img src="https://github.com/YangGoldDragon/Blog/raw/master/images/blog.png?raw=true" width="430" alt="《九喇嘛》" align="right" />
+
 ### Welcome my world! 👋
 ### [博客地址](https://yanggolddragon.github.io/Blog/)
 
