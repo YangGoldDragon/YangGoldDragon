@@ -2,7 +2,7 @@
 
 ### 博客：[https://yanggolddragon.github.io/Blog/](https://yanggolddragon.github.io/Blog/)
 
-- **练习时长两年半的前端练习生 👋**
+- **练习时长N年半的前端练习生 👋**
 - **升级打怪ing...**
 
 
