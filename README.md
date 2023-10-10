@@ -1,6 +1,6 @@
 <img src="https://github.com/YangGoldDragon/Blog/raw/master/images/blog.png?raw=true" width="430" alt="《九喇嘛》" align="right" />
 
-### 博客：[https://yanggolddragon.github.io/Blog/](https://yanggolddragon.github.io/Blog/)
+### Blog：[https://yanggolddragon.github.io/Blog/](https://yanggolddragon.github.io/Blog/)
 
 - **练习时长N年半的前端练习生 👋**
 - **升级打怪ing...**
