@@ -1,4 +1,4 @@
-<img src="https://github.com/YangGoldDragon/Blog/raw/master/images/blog.png?raw=true" width="430" alt="《九喇嘛》" align="right" />
+<img src="https://github.com/YangGoldDragon/Blog/blob/master/src/assets/images/blog.png?raw=true" width="430" alt="《九喇嘛》" align="right" />
 
 ### Blog：[https://yanggolddragon.github.io/Blog/](https://yanggolddragon.github.io/Blog/)
 
